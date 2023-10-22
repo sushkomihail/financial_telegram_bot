@@ -1,0 +1,6 @@
+USD = 'usd'
+EUR = 'eur'
+BYN = 'byn'
+KZT = 'kzt'
+GBP = 'gbp'
+CHF = 'chf'
